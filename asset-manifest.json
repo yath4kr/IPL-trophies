@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IPL-trophies/static/css/main.b01c4e50.css",
+    "main.js": "/IPL-trophies/static/js/main.0338d0ef.js",
+    "static/js/787.94c67523.chunk.js": "/IPL-trophies/static/js/787.94c67523.chunk.js",
+    "index.html": "/IPL-trophies/index.html",
+    "main.b01c4e50.css.map": "/IPL-trophies/static/css/main.b01c4e50.css.map",
+    "main.0338d0ef.js.map": "/IPL-trophies/static/js/main.0338d0ef.js.map",
+    "787.94c67523.chunk.js.map": "/IPL-trophies/static/js/787.94c67523.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b01c4e50.css",
+    "static/js/main.0338d0ef.js"
+  ]
+}
