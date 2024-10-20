@@ -32,7 +32,7 @@ export const UserData = [
   {
     id: 6,
     name: "Kolkata Knight Riders",
-    Trophies: 2,
+    Trophies: 3,
     color: "#2e0854",
   },
   {
